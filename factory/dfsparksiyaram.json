@@ -1,0 +1,15 @@
+{
+	"name": "dfsparksiyaram",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83a37c1e-ce21-42b7-b76b-f730f7ef2f40",
+		"tenantId": "58776f27-a67b-481b-9571-6c258e97dd9f"
+	}
+}
